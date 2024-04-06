@@ -43,7 +43,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Create a pull request
 
 
-## Acknowledgments
-
-Special thanks to [XYZ](https://github.com/kissan5) for their inspiration and guidance.
 
